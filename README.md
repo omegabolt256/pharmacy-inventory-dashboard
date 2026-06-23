@@ -24,7 +24,7 @@ the entire monitoring and alert process.
 ![Main Dashboard] (<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/be46e7e7-8a4a-44e7-9303-5e303ed13a61" />)
 
 ### Action required view
-![Action Required](<img width="959" height="436" alt="dashboard img" src="https://github.com/user-attachments/assets/890acbee-55e5-42bd-83d3-31365b26e39b" />)
+![Action Required](<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/3e28c74c-e144-4966-8e28-c4e496a63b72" />)
 
 ### Email automation
-![Automation](<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/bb5d141b-5bc1-4cd6-b6a8-469d94d8378d" />)
+![Automation](<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/35cff4c4-64c5-421b-9286-9a21b98a01f9" />)
