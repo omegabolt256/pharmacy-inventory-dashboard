@@ -10,7 +10,7 @@ the entire monitoring and alert process.
 
 ## Features
 - Auto-classifies every drug as Active, Expires Soon, or Expired
-- 25 medications tracked with batch numbers and quantity
+- Multiple medications tracked with batch numbers and quantity
 - Filtered "Action Required" view shows only drugs needing removal
 - Daily email alert at 12pm sent to pharmacy staff automatically
 
