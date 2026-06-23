@@ -21,10 +21,11 @@ the entire monitoring and alert process.
 ## Screenshots
 
 ### Main inventory dashboard
-![Main Dashboard] (<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/be46e7e7-8a4a-44e7-9303-5e303ed13a61" />)
+[Main Dashboard] <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/be46e7e7-8a4a-44e7-9303-5e303ed13a61" />
 
 ### Action required view
-![Action Required](<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/3e28c74c-e144-4966-8e28-c4e496a63b72" />)
+[Action Required] <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/95f2d0b3-bd52-4ab1-9e27-a344966a4952" /> 
+
 
 ### Email automation
-![Automation](<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/35cff4c4-64c5-421b-9286-9a21b98a01f9" />)
+[Automation] <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7f7814ea-c5ec-4b67-a65b-ffa62cc15f8b" />
