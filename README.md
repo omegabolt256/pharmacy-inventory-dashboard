@@ -29,3 +29,5 @@ the entire monitoring and alert process.
 
 ### Email automation
 [Automation] <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7f7814ea-c5ec-4b67-a65b-ffa62cc15f8b" />
+
+link: https://airtable.com/appaEIqmbIEnitUOz/shrmJfRRPo3bSn0nA
